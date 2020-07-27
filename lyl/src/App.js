@@ -9,6 +9,12 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
          Bienvenidos muchachos
+         hola
+         hola
+         hola
+         hola
+         hola
+         
         </p>
         <a
           className="App-link"
